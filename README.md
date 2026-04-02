@@ -27,6 +27,4 @@ Install the project, including the dictation support, CLIs, OpenAI protocol and 
 $ pip install bpsa[dictation,browser,openai,litellm]
 ```
 
-Find out more at [BPSA](https://github.com/joaopauloschuler/beyond-python-smolagents/) repository.
-
-This will set up the necessary libraries and the Beyond Python Smolagents framework in your environment.
+Find out more at the [BPSA](https://github.com/joaopauloschuler/beyond-python-smolagents/) GitHub repository.
